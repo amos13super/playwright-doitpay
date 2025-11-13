@@ -17,7 +17,7 @@ blob-report/
 allure-results/
 allure-report/
 *.zip
-reports/
+report/
 
 
 # =========================
