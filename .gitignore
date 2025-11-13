@@ -17,6 +17,8 @@ blob-report/
 allure-results/
 allure-report/
 *.zip
+reports/
+
 
 # =========================
 # Build / Output
@@ -63,6 +65,7 @@ tmp/
 temp/
 *.tmp
 *.temp
+*.xml
 
 # =========================
 # Coverage Tools
